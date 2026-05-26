@@ -1,2 +1,2 @@
-# Simple-TO_DO-List-App
+# Simple-TO-DO-List-App
 A simple system for organizing daily tasks using C++ (training project)
